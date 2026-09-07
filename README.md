@@ -162,7 +162,7 @@ heart-stroke-prediction/
 
 <img align="left" width="60" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png">
 
-This tool is for **educational purposes only** and is **not** a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for medical concerns.
+Try this Tool Now and give me suggestion to improve this model
 
 <br clear="left"/>
 
