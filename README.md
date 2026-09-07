@@ -46,7 +46,7 @@ Five classification models were trained and benchmarked on the dataset. **Logist
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/heart-stroke-prediction.git
+git clone https://github.com/subhajit404/ML-Heart-Disease.git
 cd heart-stroke-prediction
 
 # Install dependencies
